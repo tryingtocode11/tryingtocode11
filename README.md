@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning javascript, also have some knowledge in python.
 - 💞️ I’m looking to collaborate on projects whether little or big.
 - 📫 How to reach me you can reach me on instagram @johnjohnd_11
-- 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a regular person :)
 
 <!---
